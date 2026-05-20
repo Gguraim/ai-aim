@@ -2,7 +2,6 @@ Set-Content .gitignore @"
 *.pt
 *.exe
 *.mp4
-dist/
 output/
 build/
 venv/
