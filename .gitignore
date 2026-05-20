@@ -3,10 +3,13 @@ Set-Content .gitignore @"
 *.exe
 *.mp4
 dist/
+output/
 build/
 venv/
 .venv/
 __pycache__/
 runs/
 videos/
+main2.spec
+main.spec
 "@
