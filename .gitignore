@@ -4,6 +4,7 @@ Set-Content .gitignore @"
 *.mp4
 output/
 build/
+dist/
 venv/
 .venv/
 __pycache__/
