@@ -1,0 +1,12 @@
+Set-Content .gitignore @"
+*.pt
+*.exe
+*.mp4
+dist/
+build/
+venv/
+.venv/
+__pycache__/
+runs/
+videos/
+"@
